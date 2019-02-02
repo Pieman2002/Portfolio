@@ -18,7 +18,10 @@ body {
 	font-weight: bold;
 }
 #pictobox1 {
-	
+	top: 30px;
+	left: 50%;
+	width: 50%;
+	border: solid 6px red;
 }
 #pictobox2 {
 	
