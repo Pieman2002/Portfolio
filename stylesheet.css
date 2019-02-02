@@ -21,6 +21,7 @@ body {
 	top: 30px;
 	left: 50%;
 	width: 50%;
+	height: 200px;
 	border: solid 6px red;
 }
 #pictobox2 {
