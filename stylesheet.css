@@ -26,11 +26,26 @@ body {
 	border: solid 2px red;
 }
 #pictobox2 {
-	
+	display: block;
+	top: 30px;
+	left: 500px;
+	width: 50%;
+	height: 200px;
+	border: solid 2px blue;
 }
 #linkbox1 {
-	
+	display: block;
+	top: 30px;
+	left: 500px;
+	width: 50%;
+	height: 200px;
+	border: solid 2px green;
 }
 #linkbox2 {
-	
+	display: block;
+	top: 30px;
+	left: 500px;
+	width: 50%;
+	height: 200px;
+	border: solid 2px yellow;
 }
