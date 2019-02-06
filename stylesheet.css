@@ -20,7 +20,8 @@ body {
 #pictobox1 {
 	display: block;
 	top: 30px;
-	left: 500px;
+	right: 500px;
+	left: 1000px;
 	width: 50%;
 	height: 450px;
 	border: solid 2px red;
