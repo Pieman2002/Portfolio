@@ -28,7 +28,7 @@ body {
 	top: 30px;
 	left: 500px;
 	width: 50%;
-	padding: 5px;
+	padding: 10px;
 	height: 450px;
 	border: solid 2px red;
 }
@@ -37,7 +37,7 @@ body {
 	top: 30px;
 	left: 500px;
 	width: 50%;
-	padding: 5px;
+	padding: 10px;
 	height: 450px;
 	border: solid 2px blue;
 }
@@ -46,7 +46,7 @@ body {
 	top: 30px;
 	left: 500px;
 	width: 50%;
-	padding: 5px;
+	padding: 10px;
 	height: 450px;
 	border: solid 2px green;
 }
@@ -55,7 +55,7 @@ body {
 	top: 30px;
 	left: 500px;
 	width: 50%;
-	padding: 5px;
+	padding: 10px;
 	height: 450px;
 	border: solid 2px yellow;
 }
