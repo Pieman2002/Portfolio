@@ -30,7 +30,7 @@ body {
 	width: 40%;
 	padding: 10px;
 	height: 450px;
-	border: solid 2px red;
+	border: solid 2px black;
 }
 #pictobox2 {
 	display: block;
@@ -39,7 +39,7 @@ body {
 	width: 40%;
 	padding: 10px;
 	height: 450px;
-	border: solid 2px blue;
+	border: solid 2px black;
 }
 #linkbox1 {
 	display: block;
@@ -48,7 +48,7 @@ body {
 	width: 40%;
 	padding: 10px;
 	height: 450px;
-	border: solid 2px green;
+	border: solid 2px black;
 }
 #linkbox2 {
 	display: block;
@@ -57,5 +57,5 @@ body {
 	width: 40%;
 	padding: 10px;
 	height: 450px;
-	border: solid 2px yellow;
+	border: solid 2px black;
 }
