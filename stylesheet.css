@@ -29,6 +29,7 @@ body {
 	left: 0px;
 	width: 40%;
 	padding: 10px;
+	text-align: center;
 	height: 450px;
 	border: solid 2px black;
 }
@@ -38,6 +39,7 @@ body {
 	left: 0px;
 	width: 40%;
 	padding: 10px;
+	text-align: center;
 	height: 450px;
 	border: solid 2px black;
 }
@@ -47,6 +49,7 @@ body {
 	left: 0px;
 	width: 40%;
 	padding: 10px;
+	text-align: center;
 	height: 450px;
 	border: solid 2px black;
 }
@@ -55,6 +58,7 @@ body {
 	top: 30px;
 	left: 0px;
 	width: 40%;
+	text-align: center;
 	padding: 10px;
 	height: 450px;
 	border: solid 2px black;
